@@ -1,0 +1,14 @@
+Agenda:
+
+Set learning milestones
+- Hit a static opponent
+- Kill a static opponent
+- 
+
+Add learning functionalities
+- How to measure utility?
+- How to train quickly? Make each life a sample and keep genes of ones that perform well?
+
+Design models
+- Neural networks
+- How to crossbreed, mutate, etc.
